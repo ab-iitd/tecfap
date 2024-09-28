@@ -1,0 +1,30 @@
+[
+    {
+        "time_step": 0,
+        "sub_label": "Dragon Age: Inquisition"
+    },
+    {
+        "time_step": 1,
+        "sub_label": "The Witcher 3: Wild Hunt"
+    },
+    {
+        "time_step": 2,
+        "sub_label": "Overwatch"
+    },
+    {
+        "time_step": 3,
+        "sub_label": "The Legend of Zelda: Breath of the Wild"
+    },
+    {
+        "time_step": 4,
+        "sub_label": "God of War"
+    },
+    {
+        "time_step": 5,
+        "sub_label": "Sekiro: Shadows Die Twice"
+    },
+    {
+        "time_step": 6,
+        "sub_label": "The Last of Us Part II"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "time_step": 0,
+        "sub_label": "Actinium"
+    },
+    {
+        "time_step": 1,
+        "sub_label": "Radon"
+    },
+    {
+        "time_step": 2,
+        "sub_label": "Europium"
+    },
+    {
+        "time_step": 3,
+        "sub_label": "Lutetium"
+    },
+    {
+        "time_step": 4,
+        "sub_label": "Protactinium"
+    },
+    {
+        "time_step": 5,
+        "sub_label": "Hafnium"
+    },
+    {
+        "time_step": 6,
+        "sub_label": "Rhenium"
+    },
+    {
+        "time_step": 7,
+        "sub_label": "Technetium"
+    },
+    {
+        "time_step": 8,
+        "sub_label": "Francium"
+    }
+]

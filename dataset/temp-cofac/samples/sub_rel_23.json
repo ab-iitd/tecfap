@@ -1,0 +1,46 @@
+[
+    {
+        "time_step": 0,
+        "sub_label": "A Time to Kill"
+    },
+    {
+        "time_step": 1,
+        "sub_label": "The Firm"
+    },
+    {
+        "time_step": 2,
+        "sub_label": "The Pelican Brief"
+    },
+    {
+        "time_step": 3,
+        "sub_label": "The Client"
+    },
+    {
+        "time_step": 4,
+        "sub_label": "The Chamber"
+    },
+    {
+        "time_step": 5,
+        "sub_label": "The Rainmaker"
+    },
+    {
+        "time_step": 6,
+        "sub_label": "The Runaway Jury"
+    },
+    {
+        "time_step": 7,
+        "sub_label": "The Partner"
+    },
+    {
+        "time_step": 8,
+        "sub_label": "The Street Lawyer"
+    },
+    {
+        "time_step": 9,
+        "sub_label": "The Testament"
+    },
+    {
+        "time_step": 10,
+        "sub_label": "The Brethren"
+    }
+]

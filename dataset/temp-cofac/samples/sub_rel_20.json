@@ -1,0 +1,30 @@
+[
+    {
+        "time_step": 0,
+        "sub_label": "ESRO-2B"
+    },
+    {
+        "time_step": 1,
+        "sub_label": "ESRO-1A"
+    },
+    {
+        "time_step": 2,
+        "sub_label": "HEOS-A1"
+    },
+    {
+        "time_step": 3,
+        "sub_label": "ESRO-1B"
+    },
+    {
+        "time_step": 4,
+        "sub_label": "HEOS-A2"
+    },
+    {
+        "time_step": 5,
+        "sub_label": "TD-1A"
+    },
+    {
+        "time_step": 6,
+        "sub_label": "ESRO-4"
+    }
+]

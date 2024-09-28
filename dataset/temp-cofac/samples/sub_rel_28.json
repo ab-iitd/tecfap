@@ -1,0 +1,42 @@
+[
+    {
+        "time_step": 0,
+        "sub_label": "Please Please Me"
+    },
+    {
+        "time_step": 1,
+        "sub_label": "With The Beatles"
+    },
+    {
+        "time_step": 2,
+        "sub_label": "A Hard Day's Night"
+    },
+    {
+        "time_step": 3,
+        "sub_label": "Beatles For Sale"
+    },
+    {
+        "time_step": 4,
+        "sub_label": "Help!"
+    },
+    {
+        "time_step": 5,
+        "sub_label": "Rubber Soul"
+    },
+    {
+        "time_step": 6,
+        "sub_label": "Revolver"
+    },
+    {
+        "time_step": 7,
+        "sub_label": "Yellow Submarine"
+    },
+    {
+        "time_step": 8,
+        "sub_label": "Abbey Road"
+    },
+    {
+        "time_step": 9,
+        "sub_label": "Let It Be"
+    }
+]

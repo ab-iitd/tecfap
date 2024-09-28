@@ -1,0 +1,26 @@
+[
+    {
+        "time_step": 0,
+        "sub_label": "800"
+    },
+    {
+        "time_step": 1,
+        "sub_label": "Omni"
+    },
+    {
+        "time_step": 2,
+        "sub_label": "Gypsy E"
+    },
+    {
+        "time_step": 3,
+        "sub_label": "Gypsy King"
+    },
+    {
+        "time_step": 4,
+        "sub_label": "1000"
+    },
+    {
+        "time_step": 5,
+        "sub_label": "Zen"
+    }
+]

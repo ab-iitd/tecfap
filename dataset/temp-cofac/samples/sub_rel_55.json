@@ -1,0 +1,22 @@
+[
+    {
+        "time_step": 0,
+        "sub_label": "Netherlands"
+    },
+    {
+        "time_step": 1,
+        "sub_label": "Germany"
+    },
+    {
+        "time_step": 2,
+        "sub_label": "Czech Republic"
+    },
+    {
+        "time_step": 3,
+        "sub_label": "Austria"
+    },
+    {
+        "time_step": 4,
+        "sub_label": "England"
+    }
+]

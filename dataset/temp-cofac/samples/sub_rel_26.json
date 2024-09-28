@@ -1,0 +1,30 @@
+[
+    {
+        "time_step": 0,
+        "sub_label": "Michael Scott"
+    },
+    {
+        "time_step": 1,
+        "sub_label": "Mike Markkula"
+    },
+    {
+        "time_step": 2,
+        "sub_label": "John Sculley"
+    },
+    {
+        "time_step": 3,
+        "sub_label": "Michael Spindler"
+    },
+    {
+        "time_step": 4,
+        "sub_label": "Gil Amelio"
+    },
+    {
+        "time_step": 5,
+        "sub_label": "Steve Jobs"
+    },
+    {
+        "time_step": 6,
+        "sub_label": "Tim Cook"
+    }
+]

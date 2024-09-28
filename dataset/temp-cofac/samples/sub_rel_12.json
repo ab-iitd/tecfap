@@ -1,0 +1,38 @@
+[
+    {
+        "time_step": 0,
+        "sub_label": "St.Vincent & the Grenadines"
+    },
+    {
+        "time_step": 1,
+        "sub_label": "Slovakia"
+    },
+    {
+        "time_step": 2,
+        "sub_label": "Algeria"
+    },
+    {
+        "time_step": 3,
+        "sub_label": "Cape Verde"
+    },
+    {
+        "time_step": 4,
+        "sub_label": "Liechtenstein"
+    },
+    {
+        "time_step": 5,
+        "sub_label": "Swaziland"
+    },
+    {
+        "time_step": 6,
+        "sub_label": "Angola"
+    },
+    {
+        "time_step": 7,
+        "sub_label": "Nicaragua"
+    },
+    {
+        "time_step": 8,
+        "sub_label": "Albania"
+    }
+]

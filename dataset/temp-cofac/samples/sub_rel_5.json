@@ -1,0 +1,42 @@
+[
+    {
+        "time_step": 0,
+        "sub_label": "England"
+    },
+    {
+        "time_step": 1,
+        "sub_label": "South Africa"
+    },
+    {
+        "time_step": 2,
+        "sub_label": "West Indies"
+    },
+    {
+        "time_step": 3,
+        "sub_label": "New Zealand"
+    },
+    {
+        "time_step": 4,
+        "sub_label": "India"
+    },
+    {
+        "time_step": 5,
+        "sub_label": "Pakistan"
+    },
+    {
+        "time_step": 6,
+        "sub_label": "Sri Lanka"
+    },
+    {
+        "time_step": 7,
+        "sub_label": "Zimbabwe"
+    },
+    {
+        "time_step": 8,
+        "sub_label": "Bangladesh"
+    },
+    {
+        "time_step": 9,
+        "sub_label": "Ireland"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "time_step": 0,
+        "sub_label": "The College Dropout"
+    },
+    {
+        "time_step": 1,
+        "sub_label": "Late Registration"
+    },
+    {
+        "time_step": 2,
+        "sub_label": "Graduation"
+    },
+    {
+        "time_step": 3,
+        "sub_label": "808s & Heartbreak"
+    },
+    {
+        "time_step": 4,
+        "sub_label": "My Beautiful Dark Twisted Fantasy"
+    },
+    {
+        "time_step": 5,
+        "sub_label": "Yeezus"
+    },
+    {
+        "time_step": 6,
+        "sub_label": "The Life of Pablo"
+    },
+    {
+        "time_step": 7,
+        "sub_label": "ye"
+    },
+    {
+        "time_step": 8,
+        "sub_label": "Jesus Is King"
+    }
+]

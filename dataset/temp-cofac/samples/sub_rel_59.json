@@ -1,0 +1,66 @@
+[
+    {
+        "time_step": 0,
+        "sub_label": "Lord Northbrook"
+    },
+    {
+        "time_step": 1,
+        "sub_label": "Lord Lytton"
+    },
+    {
+        "time_step": 2,
+        "sub_label": "Lord Ripon"
+    },
+    {
+        "time_step": 3,
+        "sub_label": "Lord Dufferin"
+    },
+    {
+        "time_step": 4,
+        "sub_label": "Lord Lansdowne"
+    },
+    {
+        "time_step": 5,
+        "sub_label": "Lord Elgin II"
+    },
+    {
+        "time_step": 6,
+        "sub_label": "Lord Curzon"
+    },
+    {
+        "time_step": 7,
+        "sub_label": "Lord Minto II"
+    },
+    {
+        "time_step": 8,
+        "sub_label": "Lord Hardinge II"
+    },
+    {
+        "time_step": 9,
+        "sub_label": "Lord Chelmsford"
+    },
+    {
+        "time_step": 10,
+        "sub_label": "Lord Reading"
+    },
+    {
+        "time_step": 11,
+        "sub_label": "Lord Irwin"
+    },
+    {
+        "time_step": 12,
+        "sub_label": "Lord Willingdon"
+    },
+    {
+        "time_step": 13,
+        "sub_label": "Lord Linlithgow"
+    },
+    {
+        "time_step": 14,
+        "sub_label": "Lord Wavell"
+    },
+    {
+        "time_step": 15,
+        "sub_label": "Lord Mountbatten"
+    }
+]

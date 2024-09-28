@@ -1,0 +1,14 @@
+[
+    {
+        "time_step": 0,
+        "sub_label": "Bill Gates"
+    },
+    {
+        "time_step": 1,
+        "sub_label": "Steve Ballmer"
+    },
+    {
+        "time_step": 2,
+        "sub_label": "Satya Nadella"
+    }
+]

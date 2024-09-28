@@ -1,0 +1,50 @@
+[
+    {
+        "time_step": 0,
+        "sub_label": "Year of the Intern"
+    },
+    {
+        "time_step": 1,
+        "sub_label": "Coma"
+    },
+    {
+        "time_step": 2,
+        "sub_label": "Sphinx"
+    },
+    {
+        "time_step": 3,
+        "sub_label": "Brain"
+    },
+    {
+        "time_step": 4,
+        "sub_label": "Fever"
+    },
+    {
+        "time_step": 5,
+        "sub_label": "Godplayer"
+    },
+    {
+        "time_step": 6,
+        "sub_label": "Mindbend"
+    },
+    {
+        "time_step": 7,
+        "sub_label": "Outbreak"
+    },
+    {
+        "time_step": 8,
+        "sub_label": "Mortal Fear"
+    },
+    {
+        "time_step": 9,
+        "sub_label": "Mutation"
+    },
+    {
+        "time_step": 10,
+        "sub_label": "Harmful Intent"
+    },
+    {
+        "time_step": 11,
+        "sub_label": "Vital Signs"
+    }
+]

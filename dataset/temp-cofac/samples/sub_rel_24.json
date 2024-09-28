@@ -1,0 +1,38 @@
+[
+    {
+        "time_step": 0,
+        "sub_label": "Babur"
+    },
+    {
+        "time_step": 1,
+        "sub_label": "Humayun"
+    },
+    {
+        "time_step": 2,
+        "sub_label": "Akbar"
+    },
+    {
+        "time_step": 3,
+        "sub_label": "Jahangir"
+    },
+    {
+        "time_step": 4,
+        "sub_label": "Shah Jahan"
+    },
+    {
+        "time_step": 5,
+        "sub_label": "Aurangzeb"
+    },
+    {
+        "time_step": 6,
+        "sub_label": "Azam Shah"
+    },
+    {
+        "time_step": 7,
+        "sub_label": "Bahadur Shah"
+    },
+    {
+        "time_step": 8,
+        "sub_label": "Jahandar Shah"
+    }
+]

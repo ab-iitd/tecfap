@@ -1,0 +1,66 @@
+[
+    {
+        "time_step": 0,
+        "sub_label": "Million Dollar Baby"
+    },
+    {
+        "time_step": 1,
+        "sub_label": "Crash"
+    },
+    {
+        "time_step": 2,
+        "sub_label": "The Departed"
+    },
+    {
+        "time_step": 3,
+        "sub_label": "No Country for Old Men"
+    },
+    {
+        "time_step": 4,
+        "sub_label": "Slumdog Millionaire"
+    },
+    {
+        "time_step": 5,
+        "sub_label": "The Hurt Locker"
+    },
+    {
+        "time_step": 6,
+        "sub_label": "The King's Speech"
+    },
+    {
+        "time_step": 7,
+        "sub_label": "The Artist"
+    },
+    {
+        "time_step": 8,
+        "sub_label": "Argo"
+    },
+    {
+        "time_step": 9,
+        "sub_label": "12 Years a Slave"
+    },
+    {
+        "time_step": 10,
+        "sub_label": "Birdman"
+    },
+    {
+        "time_step": 11,
+        "sub_label": "Spotlight"
+    },
+    {
+        "time_step": 12,
+        "sub_label": "Moonlight"
+    },
+    {
+        "time_step": 13,
+        "sub_label": "The Shape of Water"
+    },
+    {
+        "time_step": 14,
+        "sub_label": "Green Book"
+    },
+    {
+        "time_step": 15,
+        "sub_label": "Parasite"
+    }
+]

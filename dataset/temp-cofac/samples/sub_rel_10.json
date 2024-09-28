@@ -1,0 +1,66 @@
+[
+    {
+        "time_step": 0,
+        "sub_label": "Nepal"
+    },
+    {
+        "time_step": 1,
+        "sub_label": "Cambodia"
+    },
+    {
+        "time_step": 2,
+        "sub_label": "Saudi Arabia"
+    },
+    {
+        "time_step": 3,
+        "sub_label": "Vietnam"
+    },
+    {
+        "time_step": 4,
+        "sub_label": "Tonga"
+    },
+    {
+        "time_step": 5,
+        "sub_label": "Ukraine"
+    },
+    {
+        "time_step": 6,
+        "sub_label": "Cape Verde"
+    },
+    {
+        "time_step": 7,
+        "sub_label": "Montenegro"
+    },
+    {
+        "time_step": 8,
+        "sub_label": "Samoa"
+    },
+    {
+        "time_step": 9,
+        "sub_label": "Russia"
+    },
+    {
+        "time_step": 10,
+        "sub_label": "Vanuatu"
+    },
+    {
+        "time_step": 11,
+        "sub_label": "Laos"
+    },
+    {
+        "time_step": 12,
+        "sub_label": "Tajikistan"
+    },
+    {
+        "time_step": 13,
+        "sub_label": "Yemen"
+    },
+    {
+        "time_step": 14,
+        "sub_label": "Seychelles"
+    },
+    {
+        "time_step": 15,
+        "sub_label": "Kazakhstan"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "time_step": 0,
+        "sub_label": "Palestine"
+    },
+    {
+        "time_step": 1,
+        "sub_label": "Montenegro"
+    },
+    {
+        "time_step": 2,
+        "sub_label": "Timor-Leste"
+    },
+    {
+        "time_step": 3,
+        "sub_label": "Cuba"
+    },
+    {
+        "time_step": 4,
+        "sub_label": "Brazil"
+    },
+    {
+        "time_step": 5,
+        "sub_label": "Oman"
+    },
+    {
+        "time_step": 6,
+        "sub_label": "Djibouti"
+    }
+]

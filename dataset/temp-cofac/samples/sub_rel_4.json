@@ -1,0 +1,66 @@
+[
+    {
+        "time_step": 0,
+        "sub_label": "10.2 Jaguar"
+    },
+    {
+        "time_step": 1,
+        "sub_label": "10.3 Panther"
+    },
+    {
+        "time_step": 2,
+        "sub_label": "10.4 Tiger"
+    },
+    {
+        "time_step": 3,
+        "sub_label": "10.5 Leopard"
+    },
+    {
+        "time_step": 4,
+        "sub_label": "10.6 Snow Leopard"
+    },
+    {
+        "time_step": 5,
+        "sub_label": "10.7 Lion"
+    },
+    {
+        "time_step": 6,
+        "sub_label": "10.8 Mountain Lion"
+    },
+    {
+        "time_step": 7,
+        "sub_label": "10.9 Mavericks"
+    },
+    {
+        "time_step": 8,
+        "sub_label": "10.10 Yosemite"
+    },
+    {
+        "time_step": 9,
+        "sub_label": "10.11 El Capitan"
+    },
+    {
+        "time_step": 10,
+        "sub_label": "10.12 Sierra"
+    },
+    {
+        "time_step": 11,
+        "sub_label": "10.13 High Sierra"
+    },
+    {
+        "time_step": 12,
+        "sub_label": "10.14 Mojave"
+    },
+    {
+        "time_step": 13,
+        "sub_label": "10.15 Catalina"
+    },
+    {
+        "time_step": 14,
+        "sub_label": "11 Big Sur"
+    },
+    {
+        "time_step": 15,
+        "sub_label": "12 Monterey"
+    }
+]

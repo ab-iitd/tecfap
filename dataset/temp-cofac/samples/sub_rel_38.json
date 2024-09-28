@@ -1,0 +1,30 @@
+[
+    {
+        "time_step": 0,
+        "sub_label": "Shovel Knight"
+    },
+    {
+        "time_step": 1,
+        "sub_label": "Rocket League"
+    },
+    {
+        "time_step": 2,
+        "sub_label": "Inside"
+    },
+    {
+        "time_step": 3,
+        "sub_label": "Cuphead"
+    },
+    {
+        "time_step": 4,
+        "sub_label": "Celeste"
+    },
+    {
+        "time_step": 5,
+        "sub_label": "Disco Elysium"
+    },
+    {
+        "time_step": 6,
+        "sub_label": "Hades"
+    }
+]
