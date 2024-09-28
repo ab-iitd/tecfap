@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_19_1",
+        "pattern": "[X] was launched by NASA just after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_19_2",
+        "pattern": "NASA launched [X] shortly after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_19_3",
+        "pattern": "The National Aeronautics and Space Administration launched [X] immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_19_4",
+        "pattern": "[X] was launched by the National Aeronautics and Space Administration preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_19_5",
+        "pattern": "satellite [X] was launched by NASA, USA shortly after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_19_6",
+        "pattern": "NASA launched satellite [X] immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_19_7",
+        "pattern": "[X] was put into orbit by NASA immediately subsequent to [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_19_8",
+        "pattern": "National Aeronautics and Space Administration launched [X] in immediate advance of [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_19_9",
+        "pattern": "[X] was launched by NASA just before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_19_10",
+        "pattern": "NASA launched [X] right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_19_11",
+        "pattern": "The National Aeronautics and Space Administration launched [X] immediately before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_19_12",
+        "pattern": "[X] was launched by the National Aeronautics and Space Administration followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_19_13",
+        "pattern": "satellite [X] was launched by NASA, USA just before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_19_14",
+        "pattern": "NASA launched satellite [X] immediately before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_19_15",
+        "pattern": "[X] was put into orbit by NASA immediately previous to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_19_16",
+        "pattern": "National Aeronautics and Space Administration launched [X] followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

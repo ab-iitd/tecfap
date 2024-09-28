@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_5_1",
+        "pattern": "[X] started playing test cricket immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_5_2",
+        "pattern": "[X] got test cricket status right after country [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_5_3",
+        "pattern": "[X] debuted in test cricket straight after country [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_5_4",
+        "pattern": "[X] had received test status just after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_5_5",
+        "pattern": "[X] had received test status preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_5_6",
+        "pattern": "Test status in cricket was acquired by [X] shortly after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_5_7",
+        "pattern": "Country [X] was introduced in Test Cricket immediately subsequent to [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_5_8",
+        "pattern": "The inception of [X] was done in Test Cricket right after the inception of [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_5_9",
+        "pattern": "ICC conferred test status to [X] followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_5_10",
+        "pattern": "[X] started playing test cricket just before country [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_5_11",
+        "pattern": "[X] got test cricket status immediately before country [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_5_12",
+        "pattern": "[X] debuted in test cricket right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_5_13",
+        "pattern": "ICC conferred test status to [X] immediately prior to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_5_14",
+        "pattern": "Test status in cricket was acquired by [X] immediately [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_5_15",
+        "pattern": "Country [X] was introduced in Test Cricket just previous to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_5_16",
+        "pattern": "The inception of [X] was done in Test Cricket just prior to the inception of [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

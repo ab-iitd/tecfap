@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_11_1",
+        "pattern": "[X] signed NPT just after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_11_2",
+        "pattern": "[X] signed NPT shortly after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_11_3",
+        "pattern": "[X] signed the Nuclear Non-Proliferation Treaty immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_11_4",
+        "pattern": "[X] signed NPT preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_11_5",
+        "pattern": "NPT was signed by [X] soon after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_11_6",
+        "pattern": "Nuclear Non-Proliferation Treaty was signed by country [X] immediately after country [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_11_7",
+        "pattern": "[X] authorized NPT immediately subsequent to country [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_11_8",
+        "pattern": "The NPT was agreed to by country [X] in immediate advance of country [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_11_9",
+        "pattern": "[X] signed NPT just before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_11_10",
+        "pattern": "[X] signed NPT immediately before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_11_11",
+        "pattern": "[X] signed the Nuclear Non-Proliferation Treaty prior to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_11_12",
+        "pattern": "[X] signed NPT followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_11_13",
+        "pattern": "NPT was signed by [X] right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_11_14",
+        "pattern": "Nuclear Non-Proliferation Treaty was signed by country [X] immediately before country [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_11_15",
+        "pattern": "[X] authorized NPT immediately previous to county [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_11_16",
+        "pattern": "The NPT was agreed to by country [X] followed by country [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_24_1",
+        "pattern": "[X] became Mughal emperor immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_24_2",
+        "pattern": "[X] was throned as Mughal emperor right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_24_3",
+        "pattern": "Mughal Empire was led by [X] shortly after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_24_4",
+        "pattern": "King [X] throned as Mughal emperor preceded by King [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_24_5",
+        "pattern": "Mughal Empire had [X] as their king just after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_24_6",
+        "pattern": "[X] was coronated as king in the Mughal Empire immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_24_7",
+        "pattern": "[X] was declared as the ruler of Mughal Empire immediately subsequent to [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_24_8",
+        "pattern": "The Mughal Empire was ruled by King [X] in immediate advance of King [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_24_9",
+        "pattern": "[X] became Mughal emperor immediately before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_24_10",
+        "pattern": "[X] was throned as Mughal emperor right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_24_11",
+        "pattern": "The Mughal Empire was led by [X] shortly before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_24_12",
+        "pattern": "King [X] was throned as Mughal emperor followed by King [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_24_13",
+        "pattern": "Mughal Empire had [X] as their king just before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_24_14",
+        "pattern": "[X] was coronated as king in Mughal Empire right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_24_15",
+        "pattern": "[X] was declared as the ruler of Mughal Empire immediately previous to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_24_16",
+        "pattern": "The Mughal Empire was ruled by King [X] followed by King [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

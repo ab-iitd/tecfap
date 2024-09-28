@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_14_1",
+        "pattern": "Film [X] was released by Paramount Pictures just after Film [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_14_2",
+        "pattern": "Film [X] was released by Paramount Pictures right after movie [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_14_3",
+        "pattern": "promotion of movie [X] by Paramount Pictures was straight after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_14_4",
+        "pattern": "paramount pictures brought [X] movie into the market just after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_14_5",
+        "pattern": "paramount pictures launched [X] preceded by movie [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_14_6",
+        "pattern": "Movie [X] was produced by Paramount Pictures production house immediately after movie [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_14_7",
+        "pattern": "Paramount Pictures premiered [X] just subsequent to [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_14_8",
+        "pattern": "Movie [X] was released to the public by Paramount Pictures in immediate advance of [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_14_9",
+        "pattern": "paramount pictures launched [X] followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_14_10",
+        "pattern": "Film [X] was introduced by Paramount Pictures just before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_14_11",
+        "pattern": "Movie [X] was released by Paramount Pictures immediately before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_14_12",
+        "pattern": "promotion of movie [X] by Paramount Pictures was immediately before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_14_13",
+        "pattern": "paramount pictures brought [X] into the market immediately prior to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_14_14",
+        "pattern": "Movie [X] was produced by Paramount Pictures production house immediately before movie [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_14_15",
+        "pattern": "Paramount Pictures premiered [X] just previous to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_14_16",
+        "pattern": "Movie [X] was released to the public by Paramount Pictures followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

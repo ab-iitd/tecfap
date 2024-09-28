@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_8_1",
+        "pattern": "[X] was president of India immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_8_2",
+        "pattern": "President [X] represented India right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_8_3",
+        "pattern": "[X] assumed the presidency of India straight after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_8_4",
+        "pattern": "[X] won the presidency of India just after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_8_5",
+        "pattern": "[X] won the presidency of India preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_8_6",
+        "pattern": "The Presidency of India was assumed by [X] shortly after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_8_7",
+        "pattern": "[X] became the President of India immediately subsequent to [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_8_8",
+        "pattern": "[X] was declared Indian President preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_8_9",
+        "pattern": "[X] took over the presidency of India followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_8_10",
+        "pattern": "[X] was president of India just before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_8_11",
+        "pattern": "President of Indian state [X] served immediately before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_8_12",
+        "pattern": "[X] assumed the presidency of India immediately prior to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_8_13",
+        "pattern": "[X] held the position of president of India right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_8_14",
+        "pattern": "The Presidency of India was assumed by [X] immediately before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_8_15",
+        "pattern": "[X] became the President of India just previous to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_8_16",
+        "pattern": "[X] was declared Indian President followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

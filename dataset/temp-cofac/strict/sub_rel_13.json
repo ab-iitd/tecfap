@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_13_1",
+        "pattern": "Film [X] was released by Rajshree Production just after Film [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_13_2",
+        "pattern": "Film [X] was released by Rajshree Production right after movie [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_13_3",
+        "pattern": "promotion of movie [X] by Rajshree production was straight after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_13_4",
+        "pattern": "rajshree production brought [X] movie into the market just after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_13_5",
+        "pattern": "rajshree production launched [X] preceded by movie [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_13_6",
+        "pattern": "Movie [X] was produced by Rajshree production house immediately after movie [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_13_7",
+        "pattern": "Rajshee Production premiered [X] just subsequent to [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_13_8",
+        "pattern": "Movie [X] was released to the public by Rajshee Production in immediate advance of [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_13_9",
+        "pattern": "rajshree production launched [X] followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_13_10",
+        "pattern": "Film [X] was introduced by Rajshree Production just before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_13_11",
+        "pattern": "Movie [X] was released by rajshree production immediately before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_13_12",
+        "pattern": "Promotion of movie [X] by Rajshree production was immediately before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_13_13",
+        "pattern": "rajshree production brought [X] into the market immediately prior to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_13_14",
+        "pattern": "Movie [X] was produced by Rajshree production house immediately before movie [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_13_15",
+        "pattern": "Rajshee Production premiered [X] just previous to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_13_16",
+        "pattern": "Movie [X] was released to the public by Rajshee Production followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

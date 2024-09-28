@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_64_1",
+        "pattern": "[X] was president of the American Philosophical Association immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_64_2",
+        "pattern": "[X] took over the president position of the American Philosophical Association right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_64_3",
+        "pattern": "The American Philosophical Association appointed [X] as president straight after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_64_4",
+        "pattern": "[X] assumed president position of the American Philosophical Association just after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_64_5",
+        "pattern": "[X] assumed the president position of the American Philosophical Association preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_64_6",
+        "pattern": "The presidential position was held by [X] in the American Philosophical Association shortly after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_64_7",
+        "pattern": "[X] was the president of the American Philosophical Association just subsequent to [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_64_8",
+        "pattern": "[X] took the role of president of the American Philosophical Association in immediate advance of [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_64_9",
+        "pattern": "[X] served the American Philosophical Association as president followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_64_10",
+        "pattern": "[X] was president of the American Philosophical Association just before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_64_11",
+        "pattern": "[X] took over president position at the American Philosophical Association immediately before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_64_12",
+        "pattern": "The American Philosophical Association appointed [X] as president right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_64_13",
+        "pattern": "[X] served the American Philosophical Association as president immediately prior to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_64_14",
+        "pattern": "The presidential position was held by [X] in the American Philosophical Association right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_64_15",
+        "pattern": "[X] was the president of the American Philosophical Association just previous to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_64_16",
+        "pattern": "[X] took the role of president of the American Philosophical Association followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

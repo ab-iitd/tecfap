@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_9_1",
+        "pattern": "[X] was CEO of IBM immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_9_2",
+        "pattern": "[X] took over the chief executive officer position at IBM right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_9_3",
+        "pattern": "IBM appointed [X] as CEO straight after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_9_4",
+        "pattern": "[X] assumed the CEO position of IBM just after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_9_5",
+        "pattern": "[X] assumed the CEO position of IBM preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_9_6",
+        "pattern": "The Chief Executive position was held by [X] in IBM company shortly after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_9_7",
+        "pattern": "[X] was the CEO of IBM just subsequent to [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_9_8",
+        "pattern": "[X] took the role of CEO of IBM in immediate advance of [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_9_9",
+        "pattern": "[X] served IBM as chief executive officer followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_9_10",
+        "pattern": "[X] was CEO of IBM just before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_9_11",
+        "pattern": "[X] took over the chief executive officer position at IBM immediately before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_9_12",
+        "pattern": "IBM appointed [X] as CEO right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_9_13",
+        "pattern": "[X] served IBM as chief executive officer immediately prior to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_9_14",
+        "pattern": "The Chief Executive position was held by [X] in IBM company right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_9_15",
+        "pattern": "[X] was the CEO of IBM just previous to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_9_16",
+        "pattern": "[X] took the role of CEO of IBM followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

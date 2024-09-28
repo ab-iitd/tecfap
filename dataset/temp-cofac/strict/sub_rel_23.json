@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_23_1",
+        "pattern": "[X] was written by John Grisham immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_23_2",
+        "pattern": "Book [X] was written by John Grisham right after book [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_23_3",
+        "pattern": "John Grisham wrote [X] shortly after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_23_4",
+        "pattern": "John Grisham wrote [X] preceded by book [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_23_5",
+        "pattern": "[X] was authored by John Grisham just after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_23_6",
+        "pattern": "Book writer John Grisham published [X] immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_23_7",
+        "pattern": "John Grisham authored Book [X] just subsequent to Book [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_23_8",
+        "pattern": "[X] was written by John Grisham in immediate advance of [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_23_9",
+        "pattern": "[X] was written by John Grisham immediately before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_23_10",
+        "pattern": "Book [X] was written by John Grisham right before book [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_23_11",
+        "pattern": "John Grisham wrote [X] shortly before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_23_12",
+        "pattern": "John Grisham wrote [X] followed by book [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_23_13",
+        "pattern": "[X] was authored by John Grisham just before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_23_14",
+        "pattern": "Book writer John Grisham published [X] right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_23_15",
+        "pattern": "John Grisham authored Book [X] immediately previous to Book [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_23_16",
+        "pattern": "[X] was written by John Grisham followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

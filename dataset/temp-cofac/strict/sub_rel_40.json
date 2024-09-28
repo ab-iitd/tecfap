@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_40_1",
+        "pattern": "[X] was written by Robin Cook immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_40_2",
+        "pattern": "Book [X] was written by Robin Cook right after book [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_40_3",
+        "pattern": "Robin Cook wrote [X] shortly after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_40_4",
+        "pattern": "Robin Cook wrote [X] preceded by book [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_40_5",
+        "pattern": "[X] was authored by Robin Cook just after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_40_6",
+        "pattern": "Book writer Robin Cook published [X] immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_40_7",
+        "pattern": "American novelist Robin Cook wrote [X] just after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_40_8",
+        "pattern": "American novelist Robin Cook wrote [X] immediately subsequent to [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_40_9",
+        "pattern": "[X] was written by Robin Cook immediately before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_40_10",
+        "pattern": "Book [X] was written by Robin Cook right before book [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_40_11",
+        "pattern": "Robin Cook wrote [X] shortly before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_40_12",
+        "pattern": "Robin Cook wrote [X] followed by book [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_40_13",
+        "pattern": "[X] was authored by Robin Cook just before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_40_14",
+        "pattern": "Book writer Robin Cook published [X] right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_40_15",
+        "pattern": "American novelist Robin Cook wrote the book [X] just before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_40_16",
+        "pattern": "American novelist Robin Cook wrote the book [X] succeeded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

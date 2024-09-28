@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_26_1",
+        "pattern": "[X] was CEO of Apple immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_26_2",
+        "pattern": "[X] took over the chief executive officer position at Apple right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_26_3",
+        "pattern": "Apple appointed [X] as CEO straight after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_26_4",
+        "pattern": "[X] assumed the CEO position of Apple just after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_26_5",
+        "pattern": "[X] assumed the CEO position of Apple preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_26_6",
+        "pattern": "The Chief Executive position was held by [X] at Apple company shortly after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_26_7",
+        "pattern": "[X] was the CEO of Apple just subsequent to [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_26_8",
+        "pattern": "[X] took the role of CEO of Apple in immediate advance of [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_26_9",
+        "pattern": "[X] served Apple as chief executive officer followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_26_10",
+        "pattern": "[X] was CEO of Apple just before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_26_11",
+        "pattern": "[X] took over the chief executive officer position at Apple immediately before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_26_12",
+        "pattern": "Apple appointed [X] as CEO right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_26_13",
+        "pattern": "[X] served Apple as chief executive officer immediately prior to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_26_14",
+        "pattern": "The Chief Executive Officer position was held by [X] in Apple company right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_26_15",
+        "pattern": "[X] was the CEO of Apple just previous to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_26_16",
+        "pattern": "[X] took the role of CEO of Apple followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

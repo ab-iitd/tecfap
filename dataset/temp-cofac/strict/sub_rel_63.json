@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_63_1",
+        "pattern": "[X] was president of the American Political Science Association immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_63_2",
+        "pattern": "[X] took over the president position of the American Political Science Association right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_63_3",
+        "pattern": "The American Political Science Association appointed [X] as president straight after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_63_4",
+        "pattern": "[X] assumed president position of the American Political Science Association just after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_63_5",
+        "pattern": "[X] assumed the president position of the American Political Science Association preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_63_6",
+        "pattern": "The presidential position was held by [X] in the American Political Science Association shortly after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_63_7",
+        "pattern": "[X] was the president of the American Political Science Association just subsequent to [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_63_8",
+        "pattern": "[X] took the role of president of the American Political Science Association in immediate advance of [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_63_9",
+        "pattern": "[X] served the American Political Science Association as president followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_63_10",
+        "pattern": "[X] was president of the American Political Science Association just before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_63_11",
+        "pattern": "[X] took over the president position at the American Political Science Association immediately before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_63_12",
+        "pattern": "The American Political Science Association appointed [X] as president right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_63_13",
+        "pattern": "[X] served the American Political Science Association as president immediately prior to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_63_14",
+        "pattern": "The presidential position was held by [X] in the American Political Science Association right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_63_15",
+        "pattern": "[X] was the president of the American Political Science Association just previous to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_63_16",
+        "pattern": "[X] took the role of president of the American Political Science Association followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

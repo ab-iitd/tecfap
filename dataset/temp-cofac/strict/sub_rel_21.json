@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_21_1",
+        "pattern": "[X] was directed by Christopher Nolan immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_21_2",
+        "pattern": "The direction of [X] was carried out by Christopher Nolan immediately after the direction of [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_21_3",
+        "pattern": "The direction of [X] was taken up by Christopher Nolan shortly after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_21_4",
+        "pattern": "Film [X] was directed by Christopher Nolan preceded by film [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_21_5",
+        "pattern": "Movie [X] has been directed by Christopher Nolan right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_21_6",
+        "pattern": "Director Christopher Nolan directed [X] just after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_21_7",
+        "pattern": "Christopher Nolan directed [X] immediately subsequent to [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_21_8",
+        "pattern": "[X] was filmed by Christopher Nolan in immediate advance of [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_21_9",
+        "pattern": "[X] was directed by Christopher Nolan immediately before the movie [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_21_10",
+        "pattern": "The direction of [X] was carried out by Christopher Nolan immediately before the direction of [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_21_11",
+        "pattern": "The direction of [X] was taken up by Christopher Nolan followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_21_12",
+        "pattern": "Film [X] was directed by Christopher Nolan right before film [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_21_13",
+        "pattern": "Movie [X] has been directed by Christopher Nolan just before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_21_14",
+        "pattern": "Director Christopher Nolan directed [X] just before movie [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_21_15",
+        "pattern": "Christopher Nolan directed [X] immediately previous to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_21_16",
+        "pattern": "[X] was filmed by Christopher Nolan followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

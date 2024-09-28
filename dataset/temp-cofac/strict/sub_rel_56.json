@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_56_1",
+        "pattern": "[X] was Prime Minister of the UK immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_56_2",
+        "pattern": "Prime Minister [X] represented the UK right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_56_3",
+        "pattern": "[X] assumed the role of Prime Minister of the UK straight after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_56_4",
+        "pattern": "[X] won the role of Prime Minister of the UK just after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_56_5",
+        "pattern": "[X] won the role of Prime Minister of the UK preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_56_6",
+        "pattern": "The role of Prime Minister of the UK was assumed by [X] shortly after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_56_7",
+        "pattern": "[X] became the Prime Minister of the UK immediately subsequent to [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_56_8",
+        "pattern": "[X] was declared British Prime Minister preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_56_9",
+        "pattern": "[X] took over the role of Prime Minister of the UK followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_56_10",
+        "pattern": "[X] was Prime Minister of the UK just before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_56_11",
+        "pattern": "The position of Prime Minister of the UK was served by [X] immediately before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_56_12",
+        "pattern": "[X] assumed the role of Prime Minister of the UK immediately prior to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_56_13",
+        "pattern": "[X] held the position of Prime Minister of the UK right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_56_14",
+        "pattern": "The role of Prime Minister of the UK was assumed by [X] immediately before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_56_15",
+        "pattern": "[X] became the Prime Minister of the UK just previous to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_56_16",
+        "pattern": "[X] was declared British Prime Minister followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

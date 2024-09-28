@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_15_1",
+        "pattern": "Film [X] was released by Warner Bros. just after Film [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_15_2",
+        "pattern": "Film [X] was released by Warner Bros. right after movie [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_15_3",
+        "pattern": "promotion of movie [X] by WB production house was straight after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_15_4",
+        "pattern": "WB production house brought [X] movie to the market just after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_15_5",
+        "pattern": "the Warner bros. launched [X] preceded by movie [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_15_6",
+        "pattern": "Movie [X] was produced by Warner Bros. production house immediately after movie [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_15_7",
+        "pattern": "Warner Bros. premiered [X] just subsequent to [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_15_8",
+        "pattern": "Movie [X] was released to the public by WB in immediate advance of [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_15_9",
+        "pattern": "Warner bros. launched [X] followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_15_10",
+        "pattern": "Film [X] was introduced by Warner Bros. just before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_15_11",
+        "pattern": "Movie [X] was released by WB production house immediately before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_15_12",
+        "pattern": "promotion of movie [X] by WB production house was immediately before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_15_13",
+        "pattern": "Warner bros. brought [X] into the market immediately prior to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_15_14",
+        "pattern": "Movie [X] was produced by Warner Bros. production house immediately before movie [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_15_15",
+        "pattern": "Warner Bors. premiered [X] just previous to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_15_16",
+        "pattern": "Movie [X] was released to the public by WB followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

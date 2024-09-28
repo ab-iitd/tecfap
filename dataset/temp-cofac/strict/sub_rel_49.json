@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_49_1",
+        "pattern": "The Academy Award for Best Cinematography was won by [X] immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_49_2",
+        "pattern": "[X] won the Best Cinematography Academy Award just after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_49_3",
+        "pattern": "[X] won the Oscar for Best Cinematography right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_49_4",
+        "pattern": "[X] won the Best Cinematography Academy Award preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_49_5",
+        "pattern": "Movie [X] won the Academy Award for Best Cinematography right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_49_6",
+        "pattern": "[X] won the Oscar for Best Cinematography immediately subsequent to [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_49_7",
+        "pattern": "The Academy Award for Best Cinematography was won by [X] soon after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_49_8",
+        "pattern": "[X] was awarded the Academy Award for Best Cinematography immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_49_9",
+        "pattern": "The Academy Award for Best Cinematography was won by [X] immediately before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_49_10",
+        "pattern": "[X] won the Best Cinematography Academy Award just before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_49_11",
+        "pattern": "[X] won the Oscar for Best Cinematography right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_49_12",
+        "pattern": "[X] won the Best Cinematography Academy Award succeeded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_49_13",
+        "pattern": "Movie [X] won the Academy Award for Best Cinematography right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_49_14",
+        "pattern": "[X] won the Oscar for Best Cinematography immediately prior to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_49_15",
+        "pattern": "The Academy Award for Best Cinematography was won by [X] soon before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_49_16",
+        "pattern": "[X] was awarded the Academy Award for Best Cinematography immediately prior to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

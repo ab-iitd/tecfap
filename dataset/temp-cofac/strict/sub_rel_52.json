@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_52_1",
+        "pattern": "[X] hosted the FIFA U-17 World Cup right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_52_2",
+        "pattern": "The FIFA U-17 World Cup was hosted by [X] shortly after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_52_3",
+        "pattern": "[X] hosted the FIFA U-17 World Cup preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_52_4",
+        "pattern": "The FIFA U-17 World Cup was hosted by [X] immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_52_5",
+        "pattern": "Country [X] hosted the FIFA U-17 World Cup just after country [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_52_6",
+        "pattern": "FIFA U-17 World Cup was held in the country [X] right after country [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_52_7",
+        "pattern": "Country [X] organized the FIFA U-17 World Cup just subsequent to [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_52_8",
+        "pattern": "FIFA U-17 World Cup took place in [X] in immediate advance of [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_52_9",
+        "pattern": "[X] hosted the FIFA U-17 World Cup right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_52_10",
+        "pattern": "FIFA U-17 World Cup hosted by [X] immediately before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_52_11",
+        "pattern": "[X] hosted the FIFA U-17 World Cup followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_52_12",
+        "pattern": "FIFA U-17 World Cup was hosted by [X] right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_52_13",
+        "pattern": "Country [X] hosted the FIFA U-17 World Cup just prior to country [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_52_14",
+        "pattern": "FIFA U-17 World Cup was held in the country [X] right before country [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_52_15",
+        "pattern": "Country [X] organized the FIFA U-17 World Cup just previous to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_52_16",
+        "pattern": "FIFA U-17 World Cup took place in [X] followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

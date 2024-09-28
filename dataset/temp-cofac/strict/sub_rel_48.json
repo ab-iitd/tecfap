@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_48_1",
+        "pattern": "[X] was written by Chetan Bhagat immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_48_2",
+        "pattern": "Book [X] was written by Chetan Bhagat right after book [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_48_3",
+        "pattern": "Chetan Bhagat wrote [X] shortly after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_48_4",
+        "pattern": "Chetan Bhagat wrote [X] preceded by book [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_48_5",
+        "pattern": "[X] was authored by Chetan Bhagat just after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_48_6",
+        "pattern": "Book writer Chetan Bhagat published [X] immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_48_7",
+        "pattern": "Chetan Bhagat authored Book [X] just subsequent to Book [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_48_8",
+        "pattern": "[X] was written by Chetan Bhagat in immediate advance of [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_48_9",
+        "pattern": "[X] was written by Chetan Bhagat immediately before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_48_10",
+        "pattern": "Book [X] was written by Chetan Bhagat right before book [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_48_11",
+        "pattern": "Chetan Bhagat wrote [X] shortly before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_48_12",
+        "pattern": "Chetan Bhagat wrote [X] followed by book [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_48_13",
+        "pattern": "[X] was authored by Chetan Bhagat just before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_48_14",
+        "pattern": "Book writer Chetan Bhagat published [X] right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_48_15",
+        "pattern": "Chetan Bhagat authored Book [X] immediately previous to Book [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_48_16",
+        "pattern": "[X] was written by Chetan Bhagat followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

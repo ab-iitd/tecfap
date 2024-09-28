@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_0_1",
+        "pattern": "[X] was released by Linkin Park immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_0_2",
+        "pattern": "Linkin Park released [X] right after the album [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_0_3",
+        "pattern": "Linkin Park disclosed [X] straight after the release of the album [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_0_4",
+        "pattern": "[X] was propagated by Linkin Park just after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_0_5",
+        "pattern": "[X] was propagated by Linkin Park preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_0_6",
+        "pattern": "American band LP released album [X] right after album [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_0_7",
+        "pattern": "[X] was launched by Linkin Park preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_0_8",
+        "pattern": "[X] was announced by LP just subsequent to [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_0_9",
+        "pattern": "[X] was launched by LP band followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_0_10",
+        "pattern": "[X] was released by Linkin Park just before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_0_11",
+        "pattern": "Linkin Park released [X] immediately before the album [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_0_12",
+        "pattern": "Linkin Park disclosed [X] right before the success of the album [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_0_13",
+        "pattern": "[X] was launched by LP band immediately prior to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_0_14",
+        "pattern": "American band LP released album [X] right before album [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_0_15",
+        "pattern": "Linkin Park propagated [X] just before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_0_16",
+        "pattern": "[X] was announced by LP just previous to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

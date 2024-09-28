@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_37_1",
+        "pattern": "The Game Award for Game of the Year was won by [X] immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_37_2",
+        "pattern": "[X] won the Game of the Year Award just after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_37_3",
+        "pattern": "[X] won the Game Award for Game of the Year right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_37_4",
+        "pattern": "[X] won the Game Award for Game of the Year preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_37_5",
+        "pattern": "Game [X] won the Game Award for Game of the Year right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_37_6",
+        "pattern": "[X] won the Game Award for Game of the Year immediately subsequent to [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_37_7",
+        "pattern": "The Game Award for Game of the Year was won by [X] soon after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_37_8",
+        "pattern": "[X] was awarded the Game Award for Game of the Year immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_37_9",
+        "pattern": "The Game Award for Game of the Year was won by [X] immediately before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_37_10",
+        "pattern": "[X] won the Game of the Year Award just before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_37_11",
+        "pattern": "[X] won the Game Award for Game of the Year right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_37_12",
+        "pattern": "[X] won the Game of the Year Award succeeded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_37_13",
+        "pattern": "Game [X] won the Game Award for Game of the Year right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_37_14",
+        "pattern": "[X] won the Game Award for Game of the Year immediately prior to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_37_15",
+        "pattern": "The Game Award for Game of the Year was won by [X] soon before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_37_16",
+        "pattern": "[X] was awarded the Game Award for Game of the Year immediately prior to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

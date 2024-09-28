@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_41_1",
+        "pattern": "[X] was CEO of Infosys immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_41_2",
+        "pattern": "[X] took over the chief executive officer position at Infosys right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_41_3",
+        "pattern": "Infosys appointed [X] as CEO straight after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_41_4",
+        "pattern": "[X] assumed the CEO position of Infosys just after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_41_5",
+        "pattern": "[X] assumed the CEO position of Infosys preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_41_6",
+        "pattern": "The Chief Executive position was held by [X] at Infosys company shortly after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_41_7",
+        "pattern": "[X] was the CEO of Infosys just subsequent to [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_41_8",
+        "pattern": "[X] took the role of CEO of Infosys in immediate advance of [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_41_9",
+        "pattern": "[X] served Infosys as chief executive officer followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_41_10",
+        "pattern": "[X] was CEO of Infosys just before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_41_11",
+        "pattern": "[X] took over chief executive officer position at Infosys immediately before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_41_12",
+        "pattern": "Infosys appointed [X] as CEO right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_41_13",
+        "pattern": "[X] served Infosys as chief executive officer immediately prior to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_41_14",
+        "pattern": "The Chief Executive Officer position was held by [X] in Infosys company right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_41_15",
+        "pattern": "[X] was the CEO of Infosys just previous to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_41_16",
+        "pattern": "[X] took the role of CEO of Infosys followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

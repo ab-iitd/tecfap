@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_32_1",
+        "pattern": "[X] achieved 10000 runs in ODI cricket just after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_32_2",
+        "pattern": "[X] achieved 10000 runs in ODI cricket shortly after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_32_3",
+        "pattern": "10K runs in ODI cricket was achieved by [X] immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_32_4",
+        "pattern": "Cricket player [X] completed 10K ODI runs soon after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_32_5",
+        "pattern": "Cricket player [X] completed 10K ODI runs right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_32_6",
+        "pattern": "ODI cricket saw [X] achieve 10000 runs soon after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_32_7",
+        "pattern": "[X] completed 10K runs in ODI cricket immediately subsequent to [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_32_8",
+        "pattern": "[X] accomplished 10000 runs in ODI cricket in immediate advance of [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_32_9",
+        "pattern": "[X] achieved 10000 runs in ODI cricket just before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_32_10",
+        "pattern": "[X] achieved 10000 runs in ODI cricket shortly before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_32_11",
+        "pattern": "10K runs in ODI cricket was achieved by [X] immediately before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_32_12",
+        "pattern": "Cricket player [X] completed 10K ODI runs soon before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_32_13",
+        "pattern": "Cricket player [X] completed 10K ODI runs right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_32_14",
+        "pattern": "ODI cricket saw [X] achieve 10000 runs soon before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_32_15",
+        "pattern": "[X] completed 10K runs in ODI cricket immediately previous to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_32_16",
+        "pattern": "[X] accomplished 10000 runs in ODI cricket followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

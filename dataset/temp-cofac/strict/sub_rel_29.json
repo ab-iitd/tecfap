@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_29_1",
+        "pattern": "[X] was released by Kanye West immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_29_2",
+        "pattern": "Kanye West released [X] right after the album [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_29_3",
+        "pattern": "Kanye West disclosed [X] straight after the release of the album [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_29_4",
+        "pattern": "[X] was propagated by Kanye West just after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_29_5",
+        "pattern": "[X] was propagated by Kanye West preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_29_6",
+        "pattern": "American singer Kanye West released album [X] right after album [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_29_7",
+        "pattern": "[X] was launched by Kanye West preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_29_8",
+        "pattern": "[X] was announced by Kanye West just subsequent to [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_29_9",
+        "pattern": "[X] was launched by Kanye West band followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_29_10",
+        "pattern": "[X] was released by Kanye West just before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_29_11",
+        "pattern": "Kanye West released [X] immediately before the album [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_29_12",
+        "pattern": "Kanye West disclosed [X] right before the success of the album [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_29_13",
+        "pattern": "[X] was launched by Kanye West band immediately prior to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_29_14",
+        "pattern": "American rapper Kanye West released album [X] right before album [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_29_15",
+        "pattern": "Kanye West propagated [X] just before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_29_16",
+        "pattern": "[X] was announced by Kanye West just previous to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

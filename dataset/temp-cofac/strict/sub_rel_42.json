@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_42_1",
+        "pattern": "[X] was CEO of Volkswagen immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_42_2",
+        "pattern": "[X] took over the chief executive officer position at Volkswagen right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_42_3",
+        "pattern": "Volkswagen appointed [X] as CEO straight after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_42_4",
+        "pattern": "[X] assumed the CEO position of Volkswagen just after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_42_5",
+        "pattern": "[X] assumed the CEO position of Volkswagen preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_42_6",
+        "pattern": "The Chief Executive position was held by [X] at Volkswagen company shortly after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_42_7",
+        "pattern": "[X] was the CEO of Volkswagen just subsequent to [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_42_8",
+        "pattern": "[X] took the role of CEO of Volkswagen in immediate advance of [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_42_9",
+        "pattern": "[X] served Volkswagen as chief executive officer followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_42_10",
+        "pattern": "[X] was CEO of Volkswagen just before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_42_11",
+        "pattern": "[X] took over the chief executive officer position at Volkswagen immediately before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_42_12",
+        "pattern": "Volkswagen appointed [X] as CEO right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_42_13",
+        "pattern": "[X] served Volkswagen as chief executive officer immediately prior to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_42_14",
+        "pattern": "The Chief Executive Officer position was held by [X] in Volkswagen company right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_42_15",
+        "pattern": "[X] was the CEO of Volkswagen just previous to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_42_16",
+        "pattern": "[X] took the role of CEO of Volkswagen followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_6_1",
+        "pattern": "[X] got independence immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_6_2",
+        "pattern": "[X] achieved freedom right after country [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_6_3",
+        "pattern": "People of [X] enjoyed independence straight after people of [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_6_4",
+        "pattern": "[X] assumed self-determination just after country [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_6_5",
+        "pattern": "[X] assumed self-determination preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_6_6",
+        "pattern": "Country [X] secured their independence shortly after country [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_6_7",
+        "pattern": "[X] attained freedom just subsequent to country [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_6_8",
+        "pattern": "People of [X] accomplished freedom preceded by people of [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_6_9",
+        "pattern": "People of [X] gained freedom followed by people of [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_6_10",
+        "pattern": "[X] got independence just before country [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_6_11",
+        "pattern": "[X] achieved freedom immediately before country [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_6_12",
+        "pattern": "People of [X] enjoyed independence right before people of [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_6_13",
+        "pattern": "People of [X] gained freedom immediately prior to people of [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_6_14",
+        "pattern": "Country [X] secured their independence just before country [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_6_15",
+        "pattern": "[X] attained freedom just previous to country [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_6_16",
+        "pattern": "People of [X] accomplished freedom followed by people of [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

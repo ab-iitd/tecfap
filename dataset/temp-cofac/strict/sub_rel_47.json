@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_47_1",
+        "pattern": "[X] was launched by Roscosmos just after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_47_2",
+        "pattern": "Roscosmos launched [X] shortly after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_47_3",
+        "pattern": "The Roscosmos launched [X] immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_47_4",
+        "pattern": "[X] was launched by the Roscosmos preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_47_5",
+        "pattern": "satellite [X] was launched by Roscosmos, India shortly after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_47_6",
+        "pattern": "Roscosmos launched satellite [X] immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_47_7",
+        "pattern": "[X] was put into orbit by Roscosmos immediately subsequent to [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_47_8",
+        "pattern": "Roscosmos launched [X] in immediate advance of [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_47_9",
+        "pattern": "[X] was launched by Roscosmos just before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_47_10",
+        "pattern": "Roscosmos launched [X] right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_47_11",
+        "pattern": "The Roscosmos launched [X] immediately before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_47_12",
+        "pattern": "[X] was launched by Roscosmos followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_47_13",
+        "pattern": "satellite [X] was launched by Roscosmos, India just before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_47_14",
+        "pattern": "Roscosmos launched satellite [X] immediately before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_47_15",
+        "pattern": "[X] was put into orbit by Roscosmos immediately previous to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_47_16",
+        "pattern": "Roscosmos launched [X] followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

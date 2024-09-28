@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_65_1",
+        "pattern": "[X] was president of Virginia Tech immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_65_2",
+        "pattern": "[X] took over the president position of The Virginia Polytechnic Institute and State University right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_65_3",
+        "pattern": "Virginia Tech appointed [X] as president straight after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_65_4",
+        "pattern": "[X] assumed president position of Virginia Tech just after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_65_5",
+        "pattern": "[X] assumed the president position of Virginia Tech preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_65_6",
+        "pattern": "The presidential position was held by [X] at The Virginia Polytechnic Institute and State University shortly after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_65_7",
+        "pattern": "[X] was the president of Virginia Tech just subsequent to [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_65_8",
+        "pattern": "[X] took the role of president of Virginia Tech in immediate advance of [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_65_9",
+        "pattern": "[X] served The Virginia Polytechnic Institute and State University as president followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_65_10",
+        "pattern": "[X] was president of Virginia Tech just before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_65_11",
+        "pattern": "[X] took over president position at Virginia Tech immediately before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_65_12",
+        "pattern": "Virginia Tech appointed [X] as president right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_65_13",
+        "pattern": "[X] served Virginia Tech as president immediately prior to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_65_14",
+        "pattern": "The presidential position was held by [X] in Virginia Tech right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_65_15",
+        "pattern": "[X] was the president of The Virginia Polytechnic Institute and State University just previous to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_65_16",
+        "pattern": "[X] took the role of president of Virginia Tech followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

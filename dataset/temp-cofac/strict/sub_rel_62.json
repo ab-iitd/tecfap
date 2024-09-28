@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_62_1",
+        "pattern": "[X] was president of the American Physiological Society immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_62_2",
+        "pattern": "[X] took over the president position of the American Physiological Society right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_62_3",
+        "pattern": "The American Physiological Society appointed [X] as president straight after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_62_4",
+        "pattern": "[X] assumed president position of the American Physiological Society just after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_62_5",
+        "pattern": "[X] assumed the president position of the American Physiological Society preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_62_6",
+        "pattern": "The presidential position was held by [X] in the American Physiological Society shortly after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_62_7",
+        "pattern": "[X] was the president of the American Physiological Society just subsequent to [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_62_8",
+        "pattern": "[X] took the role of president of the American Physiological Society in immediate advance of [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_62_9",
+        "pattern": "[X] served the American Physiological Society as president followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_62_10",
+        "pattern": "[X] was president of the American Physiological Society just before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_62_11",
+        "pattern": "[X] took over president position at the American Physiological Society immediately before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_62_12",
+        "pattern": "The American Physiological Society appointed [X] as president right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_62_13",
+        "pattern": "[X] served the American Physiological Society as president immediately prior to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_62_14",
+        "pattern": "The presidential position was held by [X] in the American Physiological Society right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_62_15",
+        "pattern": "[X] was the president of the American Physiological Society just previous to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_62_16",
+        "pattern": "[X] took the role of president of the American Physiological Society followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_17_1",
+        "pattern": "[X] hosted the G20 summit right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_17_2",
+        "pattern": "The G20 summit was hosted by [X] shortly after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_17_3",
+        "pattern": "[X] hosted the G20 summit preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_17_4",
+        "pattern": "The G-20 summit was hosted by [X] immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_17_5",
+        "pattern": "Country [X] hosted the G20 summit just after country [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_17_6",
+        "pattern": "The G20 annual summit was held in country [X] right after country [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_17_7",
+        "pattern": "Country [X] organized the G20 summit just subsequent to [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_17_8",
+        "pattern": "The G20 summit took place in [X] in immediate advance of [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_17_9",
+        "pattern": "[X] hosted the G20 summit right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_17_10",
+        "pattern": "G20 summit hosted by [X] immediately before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_17_11",
+        "pattern": "[X] hosted the G20 summit followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_17_12",
+        "pattern": "G-20 summit was hosted by [X] right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_17_13",
+        "pattern": "Country [X] hosted the G20 summit just prior to country [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_17_14",
+        "pattern": "The G20 annual summit was held in country [X] right before country [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_17_15",
+        "pattern": "Country [X] organized the G20 summit just previous to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_17_16",
+        "pattern": "The G20 summit took place in [X] followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

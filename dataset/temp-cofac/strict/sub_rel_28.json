@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_28_1",
+        "pattern": "[X] was released by The Beatles immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_28_2",
+        "pattern": "The Beatles released [X] right after the album [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_28_3",
+        "pattern": "The Beatles disclosed [X] straight after the release of the album [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_28_4",
+        "pattern": "[X] was propagated by The Beatles just after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_28_5",
+        "pattern": "[X] was propagated by The Beatles preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_28_6",
+        "pattern": "English band The Beatles released album [X] right after album [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_28_7",
+        "pattern": "[X] was launched by The Beatles preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_28_8",
+        "pattern": "[X] was announced by The Beatles just subsequent to [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_28_9",
+        "pattern": "[X] was launched by The Beatles band followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_28_10",
+        "pattern": "[X] was released by The Beatles just before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_28_11",
+        "pattern": "The Beatles released [X] immediately before the album [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_28_12",
+        "pattern": "The Beatles disclosed [X] right before the success of the album [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_28_13",
+        "pattern": "[X] was launched by The Beatles band immediately prior to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_28_14",
+        "pattern": "English band The Beatles released album [X] right before album [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_28_15",
+        "pattern": "The Beatles propagated [X] just before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_28_16",
+        "pattern": "[X] was announced by The Beatles just previous to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

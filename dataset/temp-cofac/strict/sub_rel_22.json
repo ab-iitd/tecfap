@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_22_1",
+        "pattern": "[X] was discovered as a new element just after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_22_2",
+        "pattern": "The discovery of [X] as a new element happened shortly after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_22_3",
+        "pattern": "The discovery of element [X] happened immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_22_4",
+        "pattern": "[X] element was discovered as a new element preceded by element [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_22_5",
+        "pattern": "Element [X] was discovered as a new element in the periodic table right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_22_6",
+        "pattern": "Scientists discovered [X] as a new element immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_22_7",
+        "pattern": "Scientists detected [X] as a new element just subsequent to [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_22_8",
+        "pattern": "[X] was detected as a new element in immediate advance of [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_22_9",
+        "pattern": "[X] was discovered as a new element just before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_22_10",
+        "pattern": "The discovery of [X] as a new element happened just before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_22_11",
+        "pattern": "The discovery of element [X] happened immediately before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_22_12",
+        "pattern": "[X] element was discovered as a new element followed by element [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_22_13",
+        "pattern": "Element [X] was discovered as a new element in the periodic table right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_22_14",
+        "pattern": "Scientists discovered [X] as a new element right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_22_15",
+        "pattern": "Scientists detected [X] as a new element just previous to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_22_16",
+        "pattern": "[X] was detected as a new element followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

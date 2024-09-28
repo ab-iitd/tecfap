@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_1_1",
+        "pattern": "[X] was released by Euphoria immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_1_2",
+        "pattern": "Euphoria released [X] right after the album [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_1_3",
+        "pattern": "Euphoria disclosed [X] straight after the release of the album [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_1_4",
+        "pattern": "[X] was propagated by Euphoria just after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_1_5",
+        "pattern": "[X] was propagated by Euphoria preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_1_6",
+        "pattern": "Indian band Euphoria released album [X] right after album [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_1_7",
+        "pattern": "[X] was launched by Euphoria preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_1_8",
+        "pattern": "[X] was announced by Euphoria subsequent to [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_1_9",
+        "pattern": "[X] was launched by Euphoria band followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_1_10",
+        "pattern": "[X] was released by Euphoria just before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_1_11",
+        "pattern": "Euphoria released [X] immediately before the album [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_1_12",
+        "pattern": "Euphoria disclosed [X] right before the success of the album [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_1_13",
+        "pattern": "[X] was launched by Euphoria band immediately prior to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_1_14",
+        "pattern": "Indian band Euphoria released album [X] right before album [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_1_15",
+        "pattern": "Euphoria propagated [X] just before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_1_16",
+        "pattern": "[X] was announced by Euphoria just previous to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

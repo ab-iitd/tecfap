@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_30_1",
+        "pattern": "[X] was released by Eminem immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_30_2",
+        "pattern": "Eminem released [X] right after the album [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_30_3",
+        "pattern": "Eminem disclosed [X] straight after the release of the album [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_30_4",
+        "pattern": "[X] was propagated by Eminem just after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_30_5",
+        "pattern": "[X] was propagated by Eminem preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_30_6",
+        "pattern": "American rapper Eminem released album [X] right after album [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_30_7",
+        "pattern": "[X] was launched by Eminen preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_30_8",
+        "pattern": "[X] was announced by Eminem just subsequent to [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_30_9",
+        "pattern": "[X] was launched by Eminem band followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_30_10",
+        "pattern": "[X] was released by Eminem just before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_30_11",
+        "pattern": "Eminem released [X] immediately before the album [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_30_12",
+        "pattern": "Eminem disclosed [X] right before the success of the album [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_30_13",
+        "pattern": "[X] was launched by Eminem band immediately prior to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_30_14",
+        "pattern": "American rapper Eminem released album [X] right before album [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_30_15",
+        "pattern": "Eminem propagated [X] just before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_30_16",
+        "pattern": "[X] was announced by Eminem just previous to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

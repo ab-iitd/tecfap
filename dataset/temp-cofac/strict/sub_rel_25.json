@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_25_1",
+        "pattern": "[X] was CEO of Microsoft immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_25_2",
+        "pattern": "[X] took over the chief executive officer position at Microsoft right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_25_3",
+        "pattern": "Microsoft appointed [X] as CEO straight after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_25_4",
+        "pattern": "[X] assumed the CEO position of Microsoft just after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_25_5",
+        "pattern": "[X] assumed the CEO position of Microsoft preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_25_6",
+        "pattern": "The Chief Executive position was held by [X] at Microsoft company shortly after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_25_7",
+        "pattern": "[X] was the CEO of Microsoft just subsequent to [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_25_8",
+        "pattern": "[X] took the role of CEO of Microsoft in immediate advance of [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_25_9",
+        "pattern": "[X] served Microsoft as chief executive officer followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_25_10",
+        "pattern": "[X] was CEO of Microsoft just before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_25_11",
+        "pattern": "[X] took over the chief executive officer position at Microsoft immediately before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_25_12",
+        "pattern": "Microsoft appointed [X] as CEO right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_25_13",
+        "pattern": "[X] served Microsoft as chief executive officer immediately prior to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_25_14",
+        "pattern": "The Chief Executive Officer position was held by [X] in Microsoft company right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_25_15",
+        "pattern": "[X] was the CEO of Microsoft just previous to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_25_16",
+        "pattern": "[X] took the role of CEO of Microsoft followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

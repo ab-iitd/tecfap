@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_60_1",
+        "pattern": "[X] was president of the American Sociological Association immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_60_2",
+        "pattern": "[X] took over the president position of the American Sociological Association right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_60_3",
+        "pattern": "The American Sociological Association appointed [X] as president straight after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_60_4",
+        "pattern": "[X] assumed president position of the American Sociological Association just after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_60_5",
+        "pattern": "[X] assumed the president position of the American Sociological Association preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_60_6",
+        "pattern": "The presidential position was held by [X] in the American Sociological Association shortly after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_60_7",
+        "pattern": "[X] was the president of the American Sociological Association just subsequent to [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_60_8",
+        "pattern": "[X] took the role of president of the American Sociological Association in immediate advance of [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_60_9",
+        "pattern": "[X] served the American Sociological Association as president followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_60_10",
+        "pattern": "[X] was president of the American Sociological Association just before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_60_11",
+        "pattern": "[X] took over president position at the American Sociological Association immediately before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_60_12",
+        "pattern": "The American Sociological Association appointed [X] as president right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_60_13",
+        "pattern": "[X] served the American Sociological Association as president immediately prior to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_60_14",
+        "pattern": "The presidential position was held by [X] in the American Sociological Association right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_60_15",
+        "pattern": "[X] was the president of the American Sociological Association just previous to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_60_16",
+        "pattern": "[X] took the role of president of the American Sociological Association followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

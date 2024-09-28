@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_36_1",
+        "pattern": "The U.S. state [X] took admission to the Union immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_36_2",
+        "pattern": "State [X] in the United States of America joined the Union immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_36_3",
+        "pattern": "[X] shared its sovereignty with the federal government of the United States just after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_36_4",
+        "pattern": "The admission to the Union of the United States of America was observed by [X] soon after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_36_5",
+        "pattern": "State [X] in the United States of America joined the Union right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_36_6",
+        "pattern": "The admission to the Union of the United States of America was observed by [X] preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_36_7",
+        "pattern": "The U.S. state [X] took admission to the Union immediately subsequent to [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_36_8",
+        "pattern": "[X] shared its sovereignty with the federal government of the United States in immediate advance of [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_36_9",
+        "pattern": "The U.S. state [X] took admission to the Union immediately before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_36_10",
+        "pattern": "State [X] in the United States of America joined the Union immediately before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_36_11",
+        "pattern": "[X] shared its sovereignty with the federal government of the United States just before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_36_12",
+        "pattern": "The admission to the Union of the United States of America was observed by [X] soon before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_36_13",
+        "pattern": "State [X] in the United States of America joined the Union right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_36_14",
+        "pattern": "The admission to the Union of the United States of America was observed by [X] succeeded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_36_15",
+        "pattern": "The U.S. state [X] took admission to the Union immediately prior to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_36_16",
+        "pattern": "[X] shared its sovereignty with the federal government of the United States right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

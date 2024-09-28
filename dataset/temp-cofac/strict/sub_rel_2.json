@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_2_1",
+        "pattern": "[X] was introduced by Tata immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_2_2",
+        "pattern": "[X] was released by Tata Motors right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_2_3",
+        "pattern": "Induction of Tata [X] was straight after Tata [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_2_4",
+        "pattern": "Tata Motors brought [X] into the market just after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_2_5",
+        "pattern": "Tata launched [X] preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_2_6",
+        "pattern": "Car model [X] was launched by Tata Motors shortly after car model [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_2_7",
+        "pattern": "Tata Motors announced [X] immediately subsequent to [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_2_8",
+        "pattern": "[X] was rolled out by Tata Motors preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_2_9",
+        "pattern": "Tata launched [X] followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_2_10",
+        "pattern": "[X] was introduced by Tata just before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_2_11",
+        "pattern": "[X] was released by Tata Motors immediately before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_2_12",
+        "pattern": "Induction of Tata [X] was right before Tata [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_2_13",
+        "pattern": "Tata Motors brought [X] into the market immediately prior to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_2_14",
+        "pattern": "Car model [X] was launched by Tata Motors just before car model [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_2_15",
+        "pattern": "Tata Motors announced [X] just previous to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_2_16",
+        "pattern": "[X] was rolled out by Tata Motors followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

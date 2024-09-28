@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_50_1",
+        "pattern": "[X] was directed by Ridley Scott immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_50_2",
+        "pattern": "The direction of [X] was carried out by Ridley Scott immediately after the direction of [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_50_3",
+        "pattern": "The direction of [X] was taken up by Ridley Scott shortly after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_50_4",
+        "pattern": "Film [X] was directed by Ridley Scott preceded by film [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_50_5",
+        "pattern": "Movie [X] has been directed by Ridley Scott right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_50_6",
+        "pattern": "Director Ridley Scott directed [X] just after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_50_7",
+        "pattern": "Ridley Scott directed [X] immediately subsequent to [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_50_8",
+        "pattern": "[X] was filmed by Ridley Scott in immediate advance of [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_50_9",
+        "pattern": "[X] was directed by Ridley Scott immediately before the movie [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_50_10",
+        "pattern": "The direction of [X] was carried out by Ridley Scott immediately before the direction of [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_50_11",
+        "pattern": "The direction of [X] was taken up by Ridley Scott followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_50_12",
+        "pattern": "Film [X] was directed by Ridley Scott right before film [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_50_13",
+        "pattern": "Movie [X] has been directed by Ridley Scott just before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_50_14",
+        "pattern": "Director Ridley Scott directed [X] just before movie [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_50_15",
+        "pattern": "Ridley Scott directed [X] immediately previous to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_50_16",
+        "pattern": "[X] was filmed by Ridley Scott preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

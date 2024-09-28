@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_3_1",
+        "pattern": "[X] was introduced by Maruti immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_3_2",
+        "pattern": "[X] was released by Maruti right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_3_3",
+        "pattern": "Induction of Maruti variant [X] was straight after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_3_4",
+        "pattern": "Maruti was brought [X] into the market just after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_3_5",
+        "pattern": "Maruti launched [X] preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_3_6",
+        "pattern": "Car model [X] was launched by Maruti industry shortly after car model [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_3_7",
+        "pattern": "Maruti announced [X] immediately subsequent to [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_3_8",
+        "pattern": "[X] was rolled out by Maruti preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_3_9",
+        "pattern": "Maruti launched [X] followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_3_10",
+        "pattern": "[X] was introduced by Maruti just before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_3_11",
+        "pattern": "[X] was released by Maruti immediately before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_3_12",
+        "pattern": "Induction of Maruti variant [X] was right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_3_13",
+        "pattern": "Maruti brought [X] into the market immediately prior to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_3_14",
+        "pattern": "Car model [X] was launched by Maruti industry just before car model [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_3_15",
+        "pattern": "Maruti announced [X] just previous to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_3_16",
+        "pattern": "[X] was rolled out by Maruti followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

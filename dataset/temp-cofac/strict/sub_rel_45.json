@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_45_1",
+        "pattern": "[X] was directed by Yash Chopra immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_45_2",
+        "pattern": "The direction of [X] was carried out by Yash Chopra immediately after the direction of [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_45_3",
+        "pattern": "The direction of [X] was taken up by Yash Chopra shortly after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_45_4",
+        "pattern": "Film [X] was directed by Yash Chopra preceded by film [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_45_5",
+        "pattern": "Movie [X] has been directed by Yash Chopra right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_45_6",
+        "pattern": "Director Yash Chopra directed [X] just after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_45_7",
+        "pattern": "Yash Chopra directed [X] immediately subsequent to [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_45_8",
+        "pattern": "[X] was filmed by Yash Chopra in immediate advance of [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_45_9",
+        "pattern": "[X] was directed by Yash Chopra immediately before the movie [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_45_10",
+        "pattern": "The direction of [X] was carried out by Yash Chopra immediately before the direction of [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_45_11",
+        "pattern": "The direction of [X] was taken up by Yash Chopra followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_45_12",
+        "pattern": "Film [X] was directed by Yash Chopra right before film [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_45_13",
+        "pattern": "Movie [X] has been directed by Yash Chopra just before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_45_14",
+        "pattern": "Director Yash Chopra directed [X] just before movie [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_45_15",
+        "pattern": "Yash Chopra directed [X] immediately previous to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_45_16",
+        "pattern": "[X] was filmed by Yash Chopra preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

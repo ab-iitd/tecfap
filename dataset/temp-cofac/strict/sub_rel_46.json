@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_46_1",
+        "pattern": "[X] was directed by S. S. Rajamouli immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_46_2",
+        "pattern": "The direction of [X] was carried out by S. S. Rajamouli immediately after the direction of [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_46_3",
+        "pattern": "The direction of [X] was taken up by S. S. Rajamouli shortly after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_46_4",
+        "pattern": "Film [X] was directed by S. S. Rajamouli preceded by film [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_46_5",
+        "pattern": "Movie [X] has been directed by S. S. Rajamouli right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_46_6",
+        "pattern": "Director S. S. Rajamouli directed [X] just after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_46_7",
+        "pattern": "S. S. Rajamouli directed [X] immediately subsequent to [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_46_8",
+        "pattern": "[X] was filmed by S. S. Rajamouli in immediate advance of [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_46_9",
+        "pattern": "[X] was directed by S. S. Rajamouli immediately before the movie [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_46_10",
+        "pattern": "The direction of [X] was carried out by S. S. Rajamouli immediately before the direction of [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_46_11",
+        "pattern": "The direction of [X] was taken up by S. S. Rajamouli followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_46_12",
+        "pattern": "Film [X] was directed by S. S. Rajamouli right before film [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_46_13",
+        "pattern": "Movie [X] has been directed by S. S. Rajamouli just before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_46_14",
+        "pattern": "Director S. S. Rajamouli directed [X] just before movie [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_46_15",
+        "pattern": "S. S. Rajamouli directed [X] immediately previous to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_46_16",
+        "pattern": "[X] was filmed by S. S. Rajamouli preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

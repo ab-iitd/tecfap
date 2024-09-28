@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_54_1",
+        "pattern": "The F1 race of the 2019 season happened in [X] immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_54_2",
+        "pattern": "Country [X] hosted the F1 Grand Prix for the 2019 season right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_54_3",
+        "pattern": "The Formula One race for the 2019 F1 World Championship happened in Country [X] soon after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_54_4",
+        "pattern": "Country [X] hosted the F1 Grand Prix for the 2019 Formula One World Championship right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_54_5",
+        "pattern": "The F1 race of the 2019 season happened in [X] preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_54_6",
+        "pattern": "Country [X] hosted the Formula One Grand Prix for the 2019 season soon after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_54_7",
+        "pattern": "The Formula One race for the 2019 F1 World Championship happened in Country [X] right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_54_8",
+        "pattern": "Country [X] hosted the F1 Grand Prix for the 2019 F1 World Championship immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_54_9",
+        "pattern": "The F1 Grand Prix of the 2019 season happened in [X] immediately before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_54_10",
+        "pattern": "Country [X] hosted the F1 Grand Prix for the 2019 season right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_54_11",
+        "pattern": "The Formula One race for the 2019 F1 World Championship happened in Country [X] soon before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_54_12",
+        "pattern": "Country [X] hosted the F1 race for the 2019 Formula One World Championship immediately prior to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_54_13",
+        "pattern": "The F1 Grand Prix of the 2019 season happened in [X] succeeded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_54_14",
+        "pattern": "Country [X] hosted the Formula One race for the 2019 season soon before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_54_15",
+        "pattern": "The Formula One Grand Prix for the 2019 F1 World Championship happened in Country [X] right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_54_16",
+        "pattern": "Country [X] hosted the F1 race for the 2019 F1 World Championship immediately before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

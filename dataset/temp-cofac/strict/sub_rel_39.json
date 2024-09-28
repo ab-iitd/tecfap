@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_39_1",
+        "pattern": "[X] was directed by Quentin Tarantino immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_39_2",
+        "pattern": "The direction of [X] was carried out by Quentin Tarantino immediately after the direction of [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_39_3",
+        "pattern": "The direction of [X] was taken up by Quentin Tarantino shortly after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_39_4",
+        "pattern": "Film [X] was directed by Quentin Tarantino preceded by film [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_39_5",
+        "pattern": "Movie [X] was directed by Quentin Tarantino right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_39_6",
+        "pattern": "Director Quentin Tarantino directed [X] just after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_39_7",
+        "pattern": "Quentin Tarantino directed [X] immediately subsequent to [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_39_8",
+        "pattern": "[X] was filmed by Quentin Tarantino in immediate advance of [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_39_9",
+        "pattern": "[X] was directed by Quentin Tarantino immediately before the movie [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_39_10",
+        "pattern": "The direction of [X] was carried out by Quentin Tarantino immediately before the direction of [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_39_11",
+        "pattern": "The direction of [X] was taken up by Quentin Tarantino followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_39_12",
+        "pattern": "Film [X] was directed by Quentin Tarantino right before film [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_39_13",
+        "pattern": "Movie [X] was directed by Quentin Tarantino just before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_39_14",
+        "pattern": "Director Quentin Tarantino directed [X] just before movie [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_39_15",
+        "pattern": "Quentin Tarantino directed [X] immediately previous to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_39_16",
+        "pattern": "[X] was filmed by Quentin Tarantino preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_27_1",
+        "pattern": "The F1 race of the 1970 season happened in [X] immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_27_2",
+        "pattern": "Country [X] hosted the F1 Grand Prix for the 1970 season right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_27_3",
+        "pattern": "The Formula One race for the 1970 F1 World Championship happened in Country [X] soon after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_27_4",
+        "pattern": "Country [X] hosted the F1 Grand Prix for the 1970 Formula One World Championship right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_27_5",
+        "pattern": "The F1 race of the 1970 season happened in [X] preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_27_6",
+        "pattern": "Country [X] hosted the Formula One Grand Prix for the 1970 season soon after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_27_7",
+        "pattern": "The Formula One race for the 1970 F1 World Championship happened in Country [X] right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_27_8",
+        "pattern": "Country [X] hosted the F1 Grand Prix for the 1970 F1 World Championship immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_27_9",
+        "pattern": "The F1 Grand Prix of the 1970 season happened in [X] immediately before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_27_10",
+        "pattern": "Country [X] hosted the F1 Grand Prix for the 1970 season right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_27_11",
+        "pattern": "The Formula One race for the 1970 F1 World Championship happened in Country [X] soon before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_27_12",
+        "pattern": "Country [X] hosted the F1 race for the 1970 Formula One World Championship immediately prior to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_27_13",
+        "pattern": "The F1 Grand Prix of the 1970 season happened in [X] succeeded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_27_14",
+        "pattern": "Country [X] hosted the Formula One race for the 1970 season soon before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_27_15",
+        "pattern": "The Formula One Grand Prix for the 1970 F1 World Championship happened in Country [X] right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_27_16",
+        "pattern": "Country [X] hosted the F1 race for the 1970 F1 World Championship immediately before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

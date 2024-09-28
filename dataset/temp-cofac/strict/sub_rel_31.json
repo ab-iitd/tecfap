@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_31_1",
+        "pattern": "Android [X] was released by Google immediately after Android [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_31_2",
+        "pattern": "Android [X] was introduced by Google right after Android [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_31_3",
+        "pattern": "Google launched Android [X] straight after Android [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_31_4",
+        "pattern": "Google sold Android [X] just after Android [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_31_5",
+        "pattern": "Google company released [X] preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_31_6",
+        "pattern": "Google launched OS [X] shortly after OS [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_31_7",
+        "pattern": "[X] was created as an OS by Google just subsequent to [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_31_8",
+        "pattern": "Google pioneered [X] in immediate advance of [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_31_9",
+        "pattern": "Google company released Android [X] followed by Android [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_31_10",
+        "pattern": "Android [X] was released by Google just Before Android [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_31_11",
+        "pattern": "Android [X] was introduced by Google immediately before Android [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_31_12",
+        "pattern": "Android [X] was launched by Google right before Android [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_31_13",
+        "pattern": "Google sold Android [X] immediately prior to Android [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_31_14",
+        "pattern": "Google launched Android OS [X] immediately before Android OS [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_31_15",
+        "pattern": "[X] was created as an Android OS by Google just previous to Android [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_31_16",
+        "pattern": "Google pioneered Android [X] followed by Android [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

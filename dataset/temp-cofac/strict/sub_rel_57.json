@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_57_1",
+        "pattern": "The Academy Award for Best Costume Design was won by [X] immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_57_2",
+        "pattern": "[X] won the Best Costume Design Academy Award just after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_57_3",
+        "pattern": "[X] won the Oscar for Best Costume Design right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_57_4",
+        "pattern": "[X] won the Best Costume Design Academy Award preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_57_5",
+        "pattern": "Movie [X] won the Academy Award for Best Costume Design right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_57_6",
+        "pattern": "[X] won the Oscar for Best Costume Design immediately subsequent to [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_57_7",
+        "pattern": "The Academy Award for Best Costume Design was won by [X] soon after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_57_8",
+        "pattern": "[X] was awarded the Academy Award for Best Costume Design immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_57_9",
+        "pattern": "The Academy Award for Best Costume Design was won by [X] immediately before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_57_10",
+        "pattern": "[X] won the Best Costume Design Academy Award just before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_57_11",
+        "pattern": "[X] won the Oscar for Best Costume Design right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_57_12",
+        "pattern": "[X] won the Best Costume Design Academy Award succeeded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_57_13",
+        "pattern": "Movie [X] won the Academy Award for Best Costume Design right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_57_14",
+        "pattern": "[X] won the Oscar for Best Costume Design immediately prior to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_57_15",
+        "pattern": "The Academy Award for Best Costume Design was won by [X] soon before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_57_16",
+        "pattern": "[X] was awarded the Academy Award for Best Costume Design immediately prior to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

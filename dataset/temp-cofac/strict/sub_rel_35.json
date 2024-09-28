@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_35_1",
+        "pattern": "The National Film Award for Best Feature Film was won by [X] immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_35_2",
+        "pattern": "[X] won the Best Feature Film award  just after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_35_3",
+        "pattern": "[X] won the National Film Award for Best Feature Film right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_35_4",
+        "pattern": "[X] won the Best Feature Film Award preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_35_5",
+        "pattern": "Movie [X] won the National Film Award for Best Feature Film right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_35_6",
+        "pattern": "[X] won the National Film Award for Best Feature Film immediately subsequent to [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_35_7",
+        "pattern": "The National Film Award for Best Feature Film was won by [X] soon after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_35_8",
+        "pattern": "[X] was awarded the National Film Award for Best Feature Film immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_35_9",
+        "pattern": "The National Film Award for Best Feature Film was won by [X] immediately before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_35_10",
+        "pattern": "[X] won the Best Feature Film award just before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_35_11",
+        "pattern": "[X] won the National Film Award for Best Feature Film right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_35_12",
+        "pattern": "[X] won the Best Feature Film Award succeeded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_35_13",
+        "pattern": "Movie [X] won the National Film Award for Best Feature Film right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_35_14",
+        "pattern": "[X] won the National Film Award for Best Feature Film immediately prior to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_35_15",
+        "pattern": "The National Film Award for Best Feature Film was won by [X] soon before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_35_16",
+        "pattern": "[X] was awarded the National Film Award for Best Feature Film immediately prior to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

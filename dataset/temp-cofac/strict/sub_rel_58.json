@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_58_1",
+        "pattern": "The Grammy Award for Album of the Year was won by [X] immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_58_2",
+        "pattern": "[X] won the Album of the Year Grammy Award just after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_58_3",
+        "pattern": "[X] won the Grammy for Album of the Year right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_58_4",
+        "pattern": "[X] won the Album of the Year Grammy Award preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_58_5",
+        "pattern": "Movie [X] won the Grammy Award for Album of the Year right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_58_6",
+        "pattern": "[X] won the Grammy for Album of the Year immediately subsequent to [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_58_7",
+        "pattern": "The Grammy Award for Album of the Year was won by [X] soon after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_58_8",
+        "pattern": "[X] was awarded the Grammy Award for Album of the Year immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_58_9",
+        "pattern": "The Grammy Award for Album of the Year was won by [X] immediately before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_58_10",
+        "pattern": "[X] won the Album of the Year Grammy Award just before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_58_11",
+        "pattern": "[X] won the Grammy for Album of the Year right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_58_12",
+        "pattern": "[X] won the Album of the Year Grammy Award succeeded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_58_13",
+        "pattern": "Movie [X] won the Grammy Award for Album of the Year right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_58_14",
+        "pattern": "[X] won the Grammy for Album of the Year immediately prior to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_58_15",
+        "pattern": "The Grammy Award for Album of the Year was won by [X] soon before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_58_16",
+        "pattern": "[X] was awarded the Grammy Award for Album of the Year immediately prior to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

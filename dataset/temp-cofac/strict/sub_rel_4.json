@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_4_1",
+        "pattern": "Mac OS [X] was released by Apple immediately after Mac OS [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_4_2",
+        "pattern": "Mac OS [X] was introduced by Apple corporation right after Mac OS [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_4_3",
+        "pattern": "Apple launched Mac OS [X] straight after Mac OS [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_4_4",
+        "pattern": "Apple sold Mac OS [X] just after Mac OS [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_4_5",
+        "pattern": "Apple company released [X] preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_4_6",
+        "pattern": "Apple corporation launched OS [X] shortly after OS [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_4_7",
+        "pattern": "Apple retailed off [X] just subsequent to [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_4_8",
+        "pattern": "OS [X] was announced by Apple succeeding OS [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_4_9",
+        "pattern": "Apple company released Mac OS [X] followed by Mac OS [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_4_10",
+        "pattern": "Mac OS [X] was released by Apple just Before Mac OS [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_4_11",
+        "pattern": "Mac OS [X] was introduced by Apple corporation immediately before Mac OS [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_4_12",
+        "pattern": "Mac OS [X] was launched by Apple right before Mac OS [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_4_13",
+        "pattern": "Apple sold [X] immediately prior to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_4_14",
+        "pattern": "Apple corporation launched OS [X] immediately before OS [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_4_15",
+        "pattern": "Apple retailed off [X] just previous to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_4_16",
+        "pattern": "OS [X] was announced by Apple just prior to OS [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_43_1",
+        "pattern": "The Academy Award for Best Original Song was won by [X] immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_43_2",
+        "pattern": "[X] won the Best Original Song Academy Award just after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_43_3",
+        "pattern": "[X] won the Oscar for Best Original Song right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_43_4",
+        "pattern": "[X] won the Best Original Song Academy Award preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_43_5",
+        "pattern": "Movie [X] won the Academy Award for Best Original Song right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_43_6",
+        "pattern": "[X] won the Oscar for Best Original Song immediately subsequent to [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_43_7",
+        "pattern": "The Academy Award for Best Original Song was won by [X] soon after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_43_8",
+        "pattern": "[X] was awarded the Academy Award for Best Original Song immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_43_9",
+        "pattern": "The Academy Award for Best Original Song was won by [X] immediately before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_43_10",
+        "pattern": "[X] won the Best Original Song Academy Award just before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_43_11",
+        "pattern": "[X] won the Oscar for Best Original Song right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_43_12",
+        "pattern": "[X] won the Best Original Song Academy Award succeeded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_43_13",
+        "pattern": "Movie [X] won the Academy Award for Best Original Song right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_43_14",
+        "pattern": "[X] won the Oscar for Best Original Song immediately prior to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_43_15",
+        "pattern": "The Academy Award for Best Original Song was won by [X] soon before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_43_16",
+        "pattern": "[X] was awarded the Academy Award for Best Original Song immediately prior to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

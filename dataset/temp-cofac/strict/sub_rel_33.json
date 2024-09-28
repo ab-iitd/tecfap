@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_33_1",
+        "pattern": "[X] joined the NATO just after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_33_2",
+        "pattern": "[X] joined the North Atlantic Treaty Organization immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_33_3",
+        "pattern": "[X] signed the NATO soon after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_33_4",
+        "pattern": "NATO was signed by [X] right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_33_5",
+        "pattern": "North Atlantic Treaty Organization was signed by [X] right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_33_6",
+        "pattern": "[X] signed the NATO preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_33_7",
+        "pattern": "[X] became a member of NATO immediately subsequent to [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_33_8",
+        "pattern": "NATO Alliance was signed by Country [X] in immediate advance of Country [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_33_9",
+        "pattern": "[X] joined the NATO just before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_33_10",
+        "pattern": "[X] joined the North Atlantic Treaty Organization immediately before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_33_11",
+        "pattern": "[X] signed the NATO soon before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_33_12",
+        "pattern": "NATO was signed by [X] right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_33_13",
+        "pattern": "North Atlantic Treaty Organization was signed by [X] right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_33_14",
+        "pattern": "[X] signed the NATO and was succeeded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_33_15",
+        "pattern": "[X] became a member of NATO immediately previous to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_33_16",
+        "pattern": "NATO Alliance was signed by Country [X] followed by Country [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

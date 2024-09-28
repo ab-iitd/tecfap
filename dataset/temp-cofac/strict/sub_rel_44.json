@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_44_1",
+        "pattern": "[X] hosted the ICML Conference right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_44_2",
+        "pattern": "The ICML Conference was hosted by [X] shortly after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_44_3",
+        "pattern": "[X] hosted the ICML Conference preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_44_4",
+        "pattern": "The International Conference on Machine Learning was hosted by [X] immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_44_5",
+        "pattern": "Country [X] hosted the ICML Conference just after country [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_44_6",
+        "pattern": "International Conference on Machine Learning was held in country [X] right after country [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_44_7",
+        "pattern": "Country [X] organized the ICML Conference just subsequent to [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_44_8",
+        "pattern": "ICML Conference took place in [X] in immediate advance of [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_44_9",
+        "pattern": "[X] hosted the ICML Conference right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_44_10",
+        "pattern": "ICML Conference hosted by [X] immediately before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_44_11",
+        "pattern": "[X] hosted the ICML Conference followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_44_12",
+        "pattern": "International Conference on Machine Learning was hosted by [X] right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_44_13",
+        "pattern": "Country [X] hosted the ICML Conference just prior to country [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_44_14",
+        "pattern": "International Conference on Machine Learning was held in country [X] right before country [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_44_15",
+        "pattern": "Country [X] organized the ICML Conference just previous to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_44_16",
+        "pattern": "ICML Conference took place in [X] followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

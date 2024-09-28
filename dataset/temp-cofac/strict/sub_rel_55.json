@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_55_1",
+        "pattern": "MotoGP race of the 2019 season happened in [X] immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_55_2",
+        "pattern": "Country [X] hosted the MotoGP Grand Prix for the 2019 season right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_55_3",
+        "pattern": "The MotoGP race for the 2019 MotoGP World Championship happened in Country [X] soon after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_55_4",
+        "pattern": "Country [X] hosted the MotoGP Grand Prix for the 2019 MotoGP World Championship right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_55_5",
+        "pattern": "The MotoGP race of the 2019 season happened in [X] preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_55_6",
+        "pattern": "Country [X] hosted the MotoGP Grand Prix for the 2019 season soon after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_55_7",
+        "pattern": "The MotoGP race for the 2019 MotoGP World Championship happened in Country [X] right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_55_8",
+        "pattern": "Country [X] hosted the MotoGP Grand Prix for the 2019 MotoGP World Championship immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_55_9",
+        "pattern": "MotoGP Grand Prix of the 2019 season happened in [X] immediately before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_55_10",
+        "pattern": "Country [X] hosted the MotoGP Grand Prix for the 2019 season right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_55_11",
+        "pattern": "The MotoGP race for the 2019 MotoGP World Championship happened in Country [X] soon before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_55_12",
+        "pattern": "Country [X] hosted the MotoGP race for the 2019 MotoGP World Championship immediately prior to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_55_13",
+        "pattern": "The MotoGP Grand Prix of the 2019 season happened in [X] succeeded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_55_14",
+        "pattern": "Country [X] hosted the MotoGP race for the 2019 season soon before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_55_15",
+        "pattern": "The MotoGP Grand Prix for the 2019 MotoGP World Championship happened in Country [X] right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_55_16",
+        "pattern": "Country [X] hosted the MotoGP race for the 2019 MotoGP World Championship immediately before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

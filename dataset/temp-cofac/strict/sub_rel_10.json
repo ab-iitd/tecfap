@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_10_1",
+        "pattern": "[X] joined the WTO Partnership just after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_10_2",
+        "pattern": "[X] joined the WTO Partnership shortly after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_10_3",
+        "pattern": "[X] signed the accession to the World Trade Organization immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_10_4",
+        "pattern": "WTO Partnership was signed by [X] soon after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_10_5",
+        "pattern": "WTO membership was taken by [X] preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_10_6",
+        "pattern": "[X] was inducted in WTO shortly after country [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_10_7",
+        "pattern": "[X] became a member of WTO just subsequent to [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_10_8",
+        "pattern": "[X] got affiliated to WTO Partnership in immediate advance of [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_10_9",
+        "pattern": "[X] joined the WTO Partnership just before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_10_10",
+        "pattern": "[X] joined the WTO Partnership immediately before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_10_11",
+        "pattern": "[X] signed the accession to the World Trade Organization prior to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_10_12",
+        "pattern": "The WTO Partnership was signed by [X] followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_10_13",
+        "pattern": "WTO membership was taken by [X] right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_10_14",
+        "pattern": "[X] was inducted in WTO right before country [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_10_15",
+        "pattern": "[X] became a member of WTO just previous to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_10_16",
+        "pattern": "[X] got affiliated with WTO Partnership followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

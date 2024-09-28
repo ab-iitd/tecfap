@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_38_1",
+        "pattern": "The Game Award for Best Independent Game was won by [X] immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_38_2",
+        "pattern": "[X] won the Best Independent Game Award just after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_38_3",
+        "pattern": "[X] won the Game Award for Best Independent Game right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_38_4",
+        "pattern": "[X] won the Game Award for Best Independent Game preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_38_5",
+        "pattern": "Game [X] won the Game Award for Best Independent Game right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_38_6",
+        "pattern": "[X] won the Game Award for Best Independent Game immediately subsequent to [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_38_7",
+        "pattern": "The Game Award for Best Independent Game was won by [X] soon after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_38_8",
+        "pattern": "[X] was awarded the Game Award for Best Independent Game immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_38_9",
+        "pattern": "The Game Award for Best Independent Game was won by [X] immediately before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_38_10",
+        "pattern": "[X] won the Best Independent Game Award just before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_38_11",
+        "pattern": "[X] won the Game Award for Best Independent Game right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_38_12",
+        "pattern": "[X] won the Best Independent Game Award succeeded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_38_13",
+        "pattern": "Game [X] won the Game Award for Best Independent Game right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_38_14",
+        "pattern": "[X] won the Game Award for Best Independent Game immediately prior to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_38_15",
+        "pattern": "The Game Award for Best Independent Game was won by [X] soon before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_38_16",
+        "pattern": "[X] was awarded the Game Award for Best Independent Game immediately prior to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]

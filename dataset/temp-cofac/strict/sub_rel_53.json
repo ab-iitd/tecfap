@@ -1,0 +1,114 @@
+[
+    {
+        "id": "pat_53_1",
+        "pattern": "[X] hosted the FIFA Futsal World Cup right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_53_2",
+        "pattern": "The FIFA Futsal World Cup was hosted by [X] shortly after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_53_3",
+        "pattern": "[X] hosted the FIFA Futsal World Cup preceded by [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_53_4",
+        "pattern": "The FIFA Futsal World Cup was hosted by [X] immediately after [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_53_5",
+        "pattern": "Country [X] hosted the FIFA Futsal World Cup just after country [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_53_6",
+        "pattern": "FIFA Futsal World Cup was held in the country [X] right after country [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_53_7",
+        "pattern": "Country [X] organized the FIFA Futsal World Cup just subsequent to [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_53_8",
+        "pattern": "FIFA Futsal World Cup took place in [X] in immediate advance of [Y]",
+        "temporal_nature": "strict",
+        "direction": "backward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_53_9",
+        "pattern": "[X] hosted the FIFA Futsal World Cup right before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_53_10",
+        "pattern": "FIFA Futsal World Cup hosted by [X] immediately before [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_53_11",
+        "pattern": "[X] hosted the FIFA Futsal World Cup followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_53_12",
+        "pattern": "FIFA Futsal World Cup was hosted by [X] right after [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_53_13",
+        "pattern": "Country [X] hosted the FIFA Futsal World Cup just prior to country [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_53_14",
+        "pattern": "FIFA Futsal World Cup was held in the country [X] right before country [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_53_15",
+        "pattern": "Country [X] organized the FIFA Futsal World Cup just previous to [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    },
+    {
+        "id": "pat_53_16",
+        "pattern": "The FIFA Futsal World Cup took place in [X] followed by [Y]",
+        "temporal_nature": "strict",
+        "direction": "forward",
+        "tense": "past"
+    }
+]
