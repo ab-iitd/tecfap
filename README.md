@@ -24,7 +24,7 @@ Repo for "<a href="https://arxiv.org/abs/2409.14065" target="_blank">Temporally 
 ## 💡 Framework
 
 <p align="center" width="100%">
-    <img src="tecfap_architecture.pdf" alt="img" height="360"/>
+    <img src="tecfap_architecture.png" alt="img" height="360"/>
 </p>
 
 
