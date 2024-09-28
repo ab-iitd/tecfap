@@ -5,7 +5,7 @@ TeCFaP: Temporally Consistent Factuality Probing for Large Language Models
 
 
 <p align="center">
-  <a href="https://www.lcs2.in/"><b>[🌐 Website]</b></a> •
+  <a href="https://www.lcs2.in/"><b>[🌐 LCS2 Lab]</b></a> •
   <a href="https://arxiv.org/abs/2409.14065"><b>[📜 Paper]</b></a> •
   <a href="https://github.com/ab-iitd/tecfap/"><b>[🐱 GitHub]</b></a>
   
