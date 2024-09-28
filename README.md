@@ -19,7 +19,7 @@ Repo for "<a href="https://arxiv.org/abs/2409.14065" target="_blank">Temporally 
 
 ## 🔥 News
 
-- [2024/09/28] TEMP-COFAC dataset is release over Git !
+- [2024/09/28] TEMP-COFAC dataset is released over Git !
 - [2024/09/20] TeCFaP is accepted by EMNLP 2024 (main conference) !
 
 
